@@ -1,0 +1,25 @@
+{
+  "name": "vue-toasty",
+  "version": "0.1.0",
+  "description": "Pure Vue component to display notification toasts",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Worthaboutapig/vue-toasty.git"
+  },
+  "keywords": [
+    "vue",
+    "toast",
+    "notify",
+    "notification"
+  ],
+  "author": "Jeremy Clarke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Worthaboutapig/vue-toasty/issues"
+  },
+  "homepage": "https://github.com/Worthaboutapig/vue-toasty#readme"
+}
